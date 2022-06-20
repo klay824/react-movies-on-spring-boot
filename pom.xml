@@ -13,6 +13,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>react-movies-on-spring-boot</name>
 	<description>Personal Movie Database</description>
+	<properties>
+		<java.version>17</java.version>
+	</properties>
 	<modules>
 		<module>frontend</module>
 		<module>backend</module>
